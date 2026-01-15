@@ -51,6 +51,6 @@ Run the script:
 python main.py
 ```
 
-![EC2 Status Checker Output](preview.jpeg)
+![EC2 Status Checker Output](preview.png)
 
 
