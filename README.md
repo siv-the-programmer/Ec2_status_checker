@@ -43,7 +43,7 @@ How to Use
 -
 Clone the repository:
 ```
-git clone <your-repo-url>
+git clone 
 cd ec2_status_check
 ```
 Run the script:
