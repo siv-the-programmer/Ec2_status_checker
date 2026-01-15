@@ -54,4 +54,6 @@ The output would look like :
 --
 ![EC2 Status Checker Output](preview.png)
 
+Please see the explanation.py file for a full documentated explanation of how the script works.
+
 
