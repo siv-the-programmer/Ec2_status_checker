@@ -50,7 +50,8 @@ Run the script:
 ```
 python main.py
 ```
-
+The output would look like : 
+--
 ![EC2 Status Checker Output](preview.png)
 
 
