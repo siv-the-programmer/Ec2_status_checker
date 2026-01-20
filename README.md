@@ -5,6 +5,7 @@
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
 ![Boto3](https://img.shields.io/badge/Boto3-AWS%20SDK-yellow)
 ![Automation](https://img.shields.io/badge/Focus-Automation-green)
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonec2&logoColor=white)
 
 A hands-on Python project to explore AWS EC2, automation, and cloud best practices. This script helps you **learn AWS services**, **practice Python automation**, and understand **DevOps principles** like monitoring, cost-awareness, and scripting infrastructure tasks.
 
