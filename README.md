@@ -51,7 +51,6 @@ How to Use
 Clone the repository:
 ```
 git clone https://github.com/siv-the-programmer/Ec2_status_checker.git
-cd ec2_status_check
 ```
 Run the script:
 ```
